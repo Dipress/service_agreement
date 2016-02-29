@@ -1,0 +1,16 @@
+{
+  "DBUsername"  :  "database username",
+  "DBPassword"  :  "database password",
+  "DBName"      :  "database name",
+  "DBDriver"    :  "mysql",
+  "DBProtocol"  :  "tcp",
+  "DBPort"      :  "3306",
+  "DBHost"      : "database hostname"
+  "SSHUser"     : "ssh username",
+  "SSHPassword" : "ssh password",
+  "SSHHost"     : "ssh hostname",
+  "SSHPort"     : "22",
+  "SSHProtocol" : "tcp",
+  "FileName"    : "filename",
+  "RemotePath"  : "path"
+}

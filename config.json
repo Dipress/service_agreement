@@ -1,0 +1,16 @@
+{
+  "DBUsername"  :  "bill",
+  "DBPassword"  :  "bgbilling",
+  "DBName"      :  "bgbilling",
+  "DBDriver"    :  "mysql",
+  "DBProtocol"  :  "tcp",
+  "DBHost"        : "194.54.152.48",
+  "DBPort"      :  "3306",
+  "SSHUser"     : "root",
+  "SSHPassword" : "vbnhblfn",
+  "SSHHost"     : "194.54.152.47",
+  "SSHPort"     : "22",
+  "SSHProtocol" : "tcp",
+  "FileName"    : "service_agreement.txt",
+  "RemotePath"  : "/var/lib/dokuwiki/data/pages/ip-fake/"
+}
